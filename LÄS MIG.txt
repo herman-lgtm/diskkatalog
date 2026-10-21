@@ -1,0 +1,35 @@
+DISKKATALOG
+===========
+Skapad av Team Tony.
+Sparar en sökbar lista över allt som finns på dina externa diskar. Du kan söka efter filer,
+hitta dubbletter och se vad som bara finns på en enda disk, även när diskarna inte är inkopplade.
+Inget på diskarna ändras.
+
+Kräver macOS 13 (Ventura) eller senare. Fungerar på både Apple Silicon- och Intel-Macar.
+
+INSTALLERA
+1. Dra Diskkatalog till mappen Program.
+2. Öppna Diskkatalog från Program.
+   Appen är inte köpt via Apple, så första gången säger Macen att den inte kan kontrollera den:
+   - Klicka på Klar (eller Avbryt).
+   - Öppna Systeminställningar › Integritet och säkerhet och scrolla ner.
+   - Klicka på "Öppna ändå" vid Diskkatalog och bekräfta med lösenord eller Touch ID.
+   Det behövs bara en gång.
+3. Koppla in en disk och klicka Lägg till (välj gärna grupp), så läses disken in.
+   Installationsfiler, Time Machine-diskar och liknande kan du ignorera.
+   Svara Tillåt när Macen frågar om Diskkatalog får komma åt filer på en flyttbar volym.
+
+BRA ATT VETA
+- När du stänger fönstret fortsätter appen i bakgrunden, med en diskikon i menyraden.
+  Inkopplade diskar uppdateras då automatiskt. Du kan stänga av det under Inställningar.
+- Under Inställningar (⚙) väljer du bland annat vad grupperna heter, när diskar läses in
+  automatiskt och om appen ska starta när du loggar in.
+- Appen raderar aldrig något på dina diskar. Vill du ta bort en dubblett gör du det själv i Finder.
+- Katalogen sparas i ~/Library/Application Support/Diskkatalog.
+  Den ligger kvar om du uppdaterar eller tar bort appen, och kopieras automatiskt en gång i veckan.
+  Katalogen innehåller namnen på alla filer på dina diskar men lämnar aldrig datorn.
+
+UPPDATERA
+Klicka på Inställningar › Sök efter uppdatering. Appen kollar också själv när den startar.
+Om det finns en ny version visas en gul ruta. Klicka på "Installera och starta om".
+Du kan också dra in en ny Diskkatalog i Program och ersätta den gamla. Katalogen ligger kvar.
