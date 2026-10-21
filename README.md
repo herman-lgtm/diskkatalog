@@ -8,6 +8,8 @@ Diskkatalog läser filernas namn, storlek och datum, och för att hitta dubblett
 
 Appen är dessutom byggd så att den **inte kan** skicka något. Motorn är spärrad för all internettrafik. Det enda undantaget är att fråga GitHub om det finns en ny version, och det sker bara om du själv väljer det.
 
+> **Din data är din. Punkt.** Vi bryr oss inte om din data – den är privat och bara din egen. Diskkatalog kommer **ALDRIG** att försöka ta reda på något om din data eller lägga upp den i smyg. **Om den gör det, så är det en hackad version.** Ladda därför bara ner appen härifrån (github.com/herman-lgtm/diskkatalog). Vi gör vad vi kan för att du ska kunna skilja en äkta app från en hackad, men det finns inga garantier med vibe-kod och AI. Vi kan inte ta ansvar för dåliga kopior eller vibe-kodade versioner.
+
 ## ⬇️ [Klicka här för att ladda ner Diskkatalog](https://github.com/herman-lgtm/diskkatalog/releases/latest/download/Diskkatalog.dmg)
 
 ## Så installerar du
