@@ -5,6 +5,14 @@ Sparar en sökbar lista över allt som finns på dina externa diskar. Du kan sö
 hitta dubbletter och se vad som bara finns på en enda disk, även när diskarna inte är inkopplade.
 Inget på diskarna ändras.
 
+DITT INNEHÅLL STANNAR HOS DIG – DET LOVAR VI
+Diskkatalog läser filernas namn, storlek och datum, och för att hitta dubbletter en liten bit av
+innehållet som räknas om till ett fingeravtryck. Allt sparas bara på din dator. Ingenting om dina
+diskar eller filer skickas någonsin någonstans – inte till Team Tony, inte till någon annan.
+Det finns inga konton, ingen statistik och ingen reklam. Appen är byggd så att den inte kan skicka
+något: den enda kontakt med internet som är möjlig är att fråga GitHub om det finns en ny version,
+och det sker bara om du själv väljer det.
+
 Kräver macOS 13 (Ventura) eller senare. Fungerar på både Apple Silicon- och Intel-Macar.
 
 INSTALLERA
@@ -28,8 +36,10 @@ BRA ATT VETA
 - Katalogen sparas i ~/Library/Application Support/Diskkatalog.
   Den ligger kvar om du uppdaterar eller tar bort appen, och kopieras automatiskt en gång i veckan.
   Katalogen innehåller namnen på alla filer på dina diskar men lämnar aldrig datorn.
+  Vill du ta bort allt: släng appen och mappen ovan.
 
 UPPDATERA
-Klicka på Inställningar › Sök efter uppdatering. Appen kollar också själv när den startar.
+Klicka på Inställningar › Sök efter uppdatering. Vill du kan appen också kolla själv när den
+startar – den frågar dig första gången.
 Om det finns en ny version visas en gul ruta. Klicka på "Installera och starta om".
 Du kan också dra in en ny Diskkatalog i Program och ersätta den gamla. Katalogen ligger kvar.
