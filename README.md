@@ -2,6 +2,12 @@
 
 En sökbar katalog över dina externa diskar för Mac. Sök efter filer, hitta dubbletter och se vad som bara finns på en enda disk, även när diskarna ligger i en låda. Appen ändrar aldrig något på diskarna.
 
+## 🔒 Ditt innehåll stannar hos dig – det lovar vi
+
+Diskkatalog läser filernas namn, storlek och datum, och för att hitta dubbletter en liten bit av innehållet som räknas om till ett fingeravtryck. **Allt sparas bara på din dator.** Ingenting om dina diskar eller filer skickas någonsin någonstans, varken till Team Tony eller till någon annan. Det finns inga konton, ingen statistik och ingen reklam.
+
+Appen är dessutom byggd så att den **inte kan** skicka något. Motorn är spärrad för all internettrafik. Det enda undantaget är att fråga GitHub om det finns en ny version, och det sker bara om du själv väljer det.
+
 ## ⬇️ [Klicka här för att ladda ner Diskkatalog](https://github.com/herman-lgtm/diskkatalog/releases/latest/download/Diskkatalog.dmg)
 
 ## Så installerar du
@@ -18,7 +24,7 @@ En sökbar katalog över dina externa diskar för Mac. Sök efter filer, hitta d
    Det behövs bara en gång.
 6. Koppla in en disk och klicka på **Lägg till**. Svara **Tillåt** om Macen frågar om appen får läsa disken.
 
-Klart! Nya versioner installerar appen själv. Du får en gul ruta med knappen *Installera och starta om*.
+Klart! Vill du få nya versioner automatiskt svarar du *Ja* när appen frågar. Då får du en gul ruta med knappen *Installera och starta om* när det finns något nytt.
 
 ---
 
